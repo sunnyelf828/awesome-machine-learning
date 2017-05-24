@@ -1,7 +1,7 @@
 The following is a list of free, open source books on machine learning, statistics, data-mining, etc.
 
 ## Machine-Learning / Data Mining
-
+* Neural Networks     http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial
 * [Real World Machine Learning](https://www.manning.com/books/real-world-machine-learning) [Free Chapters]
 * [An Introduction To Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) - Book + R Code
 * [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/) - Book
